@@ -1,2 +1,3 @@
-console.log('hola mundo!');
+const saludar=()=>{
     alert('holaaa!')
+}
